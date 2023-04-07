@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "98c2f9258db8d278",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c62fb2132781c0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ca61231b6cefebb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "table of content.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a9a7ee6c17b53b7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "24f662b140dc1532",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "824667ad127aeaf5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9409500e65725b8a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4ef86061079ad538",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 234.5
+  },
+  "right": {
+    "id": "3b1a99b31201147e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e3a25391bb1292d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c8c07cda530c048",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "table of content.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9211fa7154219d5b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "table of content.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9626295aadc8fb3a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6515d37cb410dacd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "table of content.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0ca61231b6cefebb",
+  "lastOpenFiles": [
+    "заметки.md",
+    "Callback.md",
+    "images",
+    "Promise.md",
+    "Components.md",
+    "images/Screenshot 2023-04-05 at 20.40.48.png",
+    "Properties.md",
+    "Составные компоненты.md",
+    "Структура приложения.md",
+    "table of content.md"
+  ]
+}

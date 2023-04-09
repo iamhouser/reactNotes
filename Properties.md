@@ -26,5 +26,3 @@ const element = <Welcome name="Sara" />;
 const element = <Welcome name="Sara" age="50" />
 ```
 
-
-	Всегда следует писать компонент с большой буквы!

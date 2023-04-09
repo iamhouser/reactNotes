@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "table of content.md",
+                "file": "Правила JSX синтаскиса.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "table of content.md",
+                "file": "Правила JSX синтаскиса.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "table of content.md",
+                "file": "Правила JSX синтаскиса.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "table of content.md"
+                "file": "Правила JSX синтаскиса.md"
               }
             }
           }
@@ -149,14 +149,18 @@
   "active": "0ca61231b6cefebb",
   "lastOpenFiles": [
     "заметки.md",
+    "Правила JSX синтаскиса.md",
+    "Passing JSX as children.md",
+    "Избавление от повторения props.md",
+    "Наследование props.md",
+    "Properties.md",
+    "Components.md",
+    "Promise.md",
+    "table of content.md",
     "Callback.md",
     "images",
-    "Promise.md",
-    "Components.md",
     "images/Screenshot 2023-04-05 at 20.40.48.png",
-    "Properties.md",
     "Составные компоненты.md",
-    "Структура приложения.md",
-    "table of content.md"
+    "Структура приложения.md"
   ]
 }
